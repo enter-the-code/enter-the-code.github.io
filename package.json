@@ -24,6 +24,7 @@
     "gatsby-source-filesystem": "^3.0.0",
     "gatsby-transformer-remark": "^3.0.0",
     "gatsby-transformer-sharp": "^3.0.0",
+    "gh-pages": "^4.0.0",
     "netlify-cms-app": "^2.14.26",
     "prismjs": "^1.23.0",
     "react": "^17.0.1",
@@ -54,6 +55,7 @@
     "start": "npm run dev",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   }
 }

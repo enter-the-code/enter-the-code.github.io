@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/enter-the-code.github.io",
   siteMetadata: {
     title: `Gatsby Glass`,
     author: {
