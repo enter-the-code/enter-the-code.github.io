@@ -1,29 +1,30 @@
 module.exports = {
   pathPrefix: "/enter-the-code.github.io",
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `enter-the-code Blog`,
     author: {
-      name: `Yinka Adedire`,
+      name: `song ki young`,
       summary: `Self-taught front-end web dev. JAMStack.`,
     },
     openGraphImage: `open-graph-image.png`,
-    description: `A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.`,
+    description: `Welcome to my Blog!`,
     siteUrl: `https://gatsbyglass.netlify.app`,
     social: {
-      twitter: `yinkakun`,
+      twitter: `ssoonngg53`,
     },
     socialLinks: [
       {
         name: 'github',
-        url: 'https://github.com',
+        url: 'https://github.com/enter-the-code',
+        
       },
       {
-        name: 'twitter',
-        url: 'https://twitter.com',
+        name: 'instargram',
+        url: 'https://www.instagram.com/songgiyeong84/',
       },
       {
-        name: 'instagram',
-        url: 'https://instagram.com',
+        name: 'youtube',
+        url: 'https://www.youtube.com/channel/UCaVcG2K7fBeQ0YLZW_UtzBA',
       },
     ],
   },
