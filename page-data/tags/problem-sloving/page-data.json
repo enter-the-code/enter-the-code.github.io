@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-template-js",
     "path": "/tags/problem-sloving/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/2513-통학버스/"},"frontmatter":{"date":"June 24, 2022","description":"소스코드와 해설입니다.","tags":["Problem sloving"],"title":"2513번 통학버스 문제"},"timeToRead":1,"excerpt":"…"}]}},"pageContext":{"tag":"Problem sloving"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/2513-통학버스/"},"frontmatter":{"date":"June 24, 2022","description":"소스코드와 해설입니다.","tags":["Problem sloving"],"title":"2513번 통학버스 문제"},"timeToRead":2,"excerpt":"…"}]}},"pageContext":{"tag":"Problem sloving"}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
