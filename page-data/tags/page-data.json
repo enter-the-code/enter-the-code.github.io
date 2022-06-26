@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-tags-js",
     "path": "/tags/",
-    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"earth","totalCount":2},{"fieldValue":"flight control","totalCount":1},{"fieldValue":"mission","totalCount":2},{"fieldValue":"moon","totalCount":2},{"fieldValue":"nasa","totalCount":1},{"fieldValue":"rick and morty","totalCount":4},{"fieldValue":"space","totalCount":6},{"fieldValue":"stranger things","totalCount":9},{"fieldValue":"tv series","totalCount":13}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"stranger things","totalCount":2},{"fieldValue":"tv series","totalCount":2}]}},"pageContext":{}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
