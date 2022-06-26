@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[enter-the-code Blog]]></title><description><![CDATA[Welcome to my Blog!]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Jun 2022 09:23:11 GMT</lastBuildDate><item><title><![CDATA[Gatsby Starter Glass]]></title><description><![CDATA[welcome to my Blog! welcome to my history blog!]]></description><link>https://gatsbyglass.netlify.app/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/</guid><content:encoded>&lt;h1&gt;welcome to my Blog!&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[enter-the-code Blog]]></title><description><![CDATA[Welcome to my Blog!]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Jun 2022 10:17:26 GMT</lastBuildDate><item><title><![CDATA[Gatsby Starter Glass]]></title><description><![CDATA[welcome to my Blog! welcome to my history blog!]]></description><link>https://gatsbyglass.netlify.app/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/</guid><content:encoded>&lt;h1&gt;welcome to my Blog!&lt;/h1&gt;
 &lt;p&gt;welcome to my history blog!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About Mee]]></title><description><![CDATA[안녕하세요! 프론트 개발자 지망생 송기영 입니다! 학력: 경북대학교 재학중  학년: 3학년 1학기 재학중  경력: 이성기 연구실 학부연구생으로 2년 활동  주 스택: javascript, java , c++  BOJ Profile…]]></description><link>https://gatsbyglass.netlify.app/about/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/about/</guid><content:encoded>&lt;h1&gt;안녕하세요! 프론트 개발자 지망생 송기영 입니다!&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;학력: 경북대학교 재학중&lt;br&gt;
@@ -15,7 +15,44 @@
 &lt;li&gt;GitHub Stats  &lt;a href=&quot;https://hits.seeyoufarm.com&quot;&gt;&lt;img src=&quot;https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FF-hiller&amp;#x26;count_bg=%2379C83D&amp;#x26;title_bg=%23555555&amp;#x26;icon=&amp;#x26;icon_color=%23E7E7E7&amp;#x26;title=hits&amp;#x26;edge_flat=false&quot; alt=&quot;Hits&quot;&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href=&quot;https://github.com/anuraghazra/github-readme-stats&quot;&gt;&lt;img src=&quot;https://github-readme-stats.vercel.app/api?username=enter-the-code&quot; alt=&quot;Anurag&amp;#x27;s github stats&quot;&gt;&lt;/a&gt;**&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.]]></description><link>https://gatsbyglass.netlify.app/contact/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
-&lt;p&gt;If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2513번 통학버스 문제]]></title><link>https://gatsbyglass.netlify.app/blog/do-you-know-anything-about-sensory-deprivation-tanks/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/do-you-know-anything-about-sensory-deprivation-tanks/</guid><pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;c++&quot;&gt;&lt;pre class=&quot;language-c++&quot;&gt;&lt;code class=&quot;language-c++&quot;&gt;#include &amp;lt;iostream&amp;gt;
+&lt;p&gt;If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2513번 통학버스 문제]]></title><description><![CDATA[…]]></description><link>https://gatsbyglass.netlify.app/blog/2513-통학버스/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/2513-통학버스/</guid><pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;문제&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ddd56b244d2662b653816eb494eb710d/31df8/2513_%EB%AC%B8%EC%A0%9C.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 46.835443037974684%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAABG0lEQVQoz31R2W6DMBD0/39Xk1ceUNMmUh9QQRRzYwzmEFvPVptAWwVptMOe3lnVGkvDMNKyLIx5ng/Y+6dp+hP/navGcaQ8z6mqKqrrmoqiYNu2LfOmafzAgZuJdc4xrLXsE6CXMsZQlmVcjMawWmvPizuXYTK4LEsGhnZdx437vuch6r/JwOCTrOn81IFMlbFv8Ws5a8ihxsfXdaVt2w5Q9OT7uL3S+9uFzucTRVFEp9MLhWH4rIQUhJRXQQPYaXIssv769KvldL3eOBYEATcEl0NgMwFezBrGccw6JklCaZoy1zrzetV3veAXHRHfAz5ojQMqiCrHAMeAh9A/XMQH0HSfh2PgBsjhKz/WnA7YH0j+91Y46oVDvm8mPbQ/WcUCDwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;problem image&quot;
+        title=&quot;problem image&quot;
+        src=&quot;/static/ddd56b244d2662b653816eb494eb710d/f058b/2513_%EB%AC%B8%EC%A0%9C.png&quot;
+        srcset=&quot;/static/ddd56b244d2662b653816eb494eb710d/c26ae/2513_%EB%AC%B8%EC%A0%9C.png 158w,
+/static/ddd56b244d2662b653816eb494eb710d/6bdcf/2513_%EB%AC%B8%EC%A0%9C.png 315w,
+/static/ddd56b244d2662b653816eb494eb710d/f058b/2513_%EB%AC%B8%EC%A0%9C.png 630w,
+/static/ddd56b244d2662b653816eb494eb710d/40601/2513_%EB%AC%B8%EC%A0%9C.png 945w,
+/static/ddd56b244d2662b653816eb494eb710d/78612/2513_%EB%AC%B8%EC%A0%9C.png 1260w,
+/static/ddd56b244d2662b653816eb494eb710d/31df8/2513_%EB%AC%B8%EC%A0%9C.png 2366w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;간단한 문제다. 이런문제 대부분은 거의 디피노 ㅋㅋㅋㅋ 라고 생각하고 푸는데 사실 그건 아니었다. 이건 그리디 문제로써 항상 최적해를
+찾을수 있는 문제였던 것이다 이 문제의 핵심은 어차피 멀리가있는 친구들을 학교로 데리고 올려면 일단 버스가 출발해서 가야되는것이다
+그래서 멀리있는 친구부터 데리고 오는것이 중요하다. 그리고 남는자리에 그다음 멀리있는 친구들 버스 정원이 탈때까지 계속 태우고 정원이 오면 가장 멀리서 데려온 그 거리를 곱하기 2해서 더해주면 된다.
+저기서 member 구조체에는 위치,수,그리고 학교로 부터 떨어진 거리이다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;c++&quot;&gt;&lt;pre class=&quot;language-c++&quot;&gt;&lt;code class=&quot;language-c++&quot;&gt;#include &amp;lt;iostream&amp;gt;
 #include &amp;lt;vector&amp;gt;
 #include&amp;lt;string.h&amp;gt;
 #include&amp;lt;queue&amp;gt;
