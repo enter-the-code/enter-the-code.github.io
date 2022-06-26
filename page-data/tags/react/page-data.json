@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-template-js",
+    "path": "/tags/react/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/react_1/"},"frontmatter":{"date":"June 06, 2022","description":null,"tags":["react"],"title":"node 설치해보기"},"timeToRead":1,"excerpt":"node.js를 설치하기전 혹시 모르잖아 설치되어 있을지? 그러니까 한번 확인해 봅시다.\n 위의 명령줄을 터미널 켜고 한번 갈겨준다.\n\n만약 command not found 가 나온다면 안깔린거니까 한번 진행 해보자 본인은 mac…"}]}},"pageContext":{"tag":"react"}},
+    "staticQueryHashes": ["2555585279","2714594843","3159585216"]}

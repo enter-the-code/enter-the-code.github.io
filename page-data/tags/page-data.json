@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-tags-js",
     "path": "/tags/",
-    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Problem sloving","totalCount":1},{"fieldValue":"stranger things","totalCount":1},{"fieldValue":"tv series","totalCount":1}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Problem sloving","totalCount":1},{"fieldValue":"react","totalCount":1}]}},"pageContext":{}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[enter-the-code Blog]]></title><description><![CDATA[Welcome to my Blog!]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Jun 2022 10:17:26 GMT</lastBuildDate><item><title><![CDATA[Gatsby Starter Glass]]></title><description><![CDATA[welcome to my Blog! welcome to my history blog!]]></description><link>https://gatsbyglass.netlify.app/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/</guid><content:encoded>&lt;h1&gt;welcome to my Blog!&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[enter-the-code Blog]]></title><description><![CDATA[Welcome to my Blog!]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Jun 2022 10:42:46 GMT</lastBuildDate><item><title><![CDATA[Gatsby Starter Glass]]></title><description><![CDATA[welcome to my Blog! welcome to my history blog!]]></description><link>https://gatsbyglass.netlify.app/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/</guid><content:encoded>&lt;h1&gt;welcome to my Blog!&lt;/h1&gt;
 &lt;p&gt;welcome to my history blog!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About Mee]]></title><description><![CDATA[안녕하세요! 프론트 개발자 지망생 송기영 입니다! 학력: 경북대학교 재학중  학년: 3학년 1학기 재학중  경력: 이성기 연구실 학부연구생으로 2년 활동  주 스택: javascript, java , c++  BOJ Profile…]]></description><link>https://gatsbyglass.netlify.app/about/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/about/</guid><content:encoded>&lt;h1&gt;안녕하세요! 프론트 개발자 지망생 송기영 입니다!&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;학력: 경북대학교 재학중&lt;br&gt;
@@ -141,68 +141,30 @@ int main() {
 	int a = calculate(student1) + calculate(student2);
 	cout &amp;lt;&amp;lt; a &amp;lt;&amp;lt; &amp;quot;\n&amp;quot;;
 	return 0;
-}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[You’re pretty cute, you know that?]]></title><description><![CDATA[You’re pretty cute, you know that? Why’s he gotta kick the door? Why’s he gotta kick the door? Don’t take it so personally, okay? I don’t…]]></description><link>https://gatsbyglass.netlify.app/blog/youre-pretty-cute-you-know-that/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/youre-pretty-cute-you-know-that/</guid><pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;You’re pretty cute, you know that? Why’s he gotta kick the door? Why’s he gotta kick the door? Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority. It’s just, sometimes… people don’t really say what they’re really thinking. But when you capture the right moment, it says more.Let’s burn that lab to the ground. Oh… candy, leftovers, Eggo’s… she really likes Eggo’s. Bitchin’ So, Jonathan, how was the pull-out? You are such a nerd. No wonder you only hang out with boys. Mornings are for coffee and contemplation. Hey kiddo, would you like a balloon?It’s finger-lickin’ good. You’re pretty cute, you know that? He’s a sensitive kid. Lonnie used to say he was queer.&lt;/p&gt;
-&lt;p&gt;Called him a fag. Is he? He’s missing, is what he is! Oh… candy, leftovers, Eggo’s… she really likes Eggo’s. It’s about the shadow monster, isn’t it?He’s a sensitive kid. Lonnie used to say he was queer. Called him a fag. Is he? He’s missing, is what he is! So, Jonathan, how was the pull-out? Hey kiddo, would you like a balloon? You act like you want me to be your friend and then you treat me like garbage.You’re an idiot, Steve Harrington. You’re beautiful, Nancy Wheeler. Oh… candy, leftovers, Eggo’s… she really likes Eggo’s. It’s finger-lickin’ good. It’s finger-lickin’ good. Why are you keeping this curiosity door lock? She shut one door! With her mind!&lt;/p&gt;
-&lt;h2&gt;Image&lt;/h2&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/9oADAMBAAIQAxAAAAEhLNTI5C//xAAZEAEBAQADAAAAAAAAAAAAAAABEQMAEBL/2gAIAQEAAQUCJNAOjWDrX1z/xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAwEBPwGMKs//xAAYEQACAwAAAAAAAAAAAAAAAAAAARESIf/aAAgBAgEBPwGdLI//xAAaEAACAgMAAAAAAAAAAAAAAAAAARExEBIy/9oACAEBAAY/AqQoxGpyij//xAAbEAACAgMBAAAAAAAAAAAAAAABEQAhEDGRwf/aAAgBAQABPyEFlyHYloWHWBepLQ1al4//2gAMAwEAAgADAAAAEIDP/8QAFxEBAQEBAAAAAAAAAAAAAAAAAREQIf/aAAgBAwEBPxBDE7l//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARQf/aAAgBAgEBPxARbIP/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhMUEQcYH/2gAIAQEAAT8QLTBjNemHN5AOb4JbJtb3kllEHR87xssbbzn/2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Rocket launch&quot;
-        title=&quot;Rocket launch&quot;
-        src=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg&quot;
-        srcset=&quot;/static/bdae7a03cbf0311a0bfcfcce7681fa64/ff44c/rocket.jpg 158w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/a6688/rocket.jpg 315w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/828fb/rocket.jpg 630w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/0ede0/rocket.jpg 945w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/3ac88/rocket.jpg 1260w,
-/static/bdae7a03cbf0311a0bfcfcce7681fa64/8a4e7/rocket.jpg 3428w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2&gt;Header&lt;/h2&gt;
-&lt;p&gt;Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.&lt;/p&gt;
-&lt;p&gt;Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.&lt;/p&gt;
-&lt;h2&gt;Unordered Lists&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Ordered Lists&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code Block&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// finds a given word in a string and replace with another one&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;findAndReplace&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToFind&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; wordToReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; string&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;split&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToFind&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;wordToReplace&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[node 설치해보기]]></title><description><![CDATA[node.js를 설치하기전 혹시 모르잖아 설치되어 있을지? 그러니까 한번 확인해 봅시다.
+ 위의 명령줄을 터미널 켜고 한번 갈겨준다.
 
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; result &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;findAndReplace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;I like banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;banana&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;apple&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// I like apple&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Quoted Text&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item></channel></rss>
+만약 command not found 가 나온다면 안깔린거니까 한번 진행 해보자 본인은 mac…]]></description><link>https://gatsbyglass.netlify.app/blog/react_1/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/react_1/</guid><pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;node.js를 설치하기전 혹시 모르잖아 설치되어 있을지? 그러니까 한번 확인해 봅시다.
+&lt;/br&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$ node -v&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;위의 명령줄을 터미널 켜고 한번 갈겨준다.
+&lt;/br&gt;
+만약 command not found 가 나온다면 안깔린거니까 한번 진행 해보자&lt;/p&gt;
+&lt;p&gt;본인은 mac을 사용하는 사람이니까&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;brew install node&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;위를 터미널에다가 입력해주고 아니라면 사이트에서 다운 받으면 된다&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://node.js.org&quot;&gt;node 사이트&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;그 후에 노드 패키지 관리자인 npm도 함께 설치되는데 프로젝트 폴더 안에 들가서&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;npm install &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/br&gt;
+이거 한번 해주면 어지간한 필요있는 패키지들은 다 설치되고 필요한 부분만 설치하려면 뒤에 패키지 이름을 넣어주면 된다
+&lt;p&gt;지우려면 install대신 remove 해주고 지우고싶은 패키지 이름을 뒤에 붙이면 된다
+&lt;/br&gt;
+본인은 yarn을 쓰는데 &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;npm install -g yarn&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/br&gt;
+으로 설치해줄수 있다
+&lt;p&gt;얀은 병렬적으로 설치가 되며 페이스북 등 의존관계를 좀더 신뢰성있게 관리할수 있도록 돕는다
+&lt;/br&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;yarn add&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이거로 패키지를 설치할수 있다&lt;/p&gt;</content:encoded></item></channel></rss>

@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-tags-template-js",
-    "path": "/tags/tv-series/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/youre-pretty-cute-you-know-that/"},"frontmatter":{"date":"July 01, 2021","description":null,"tags":["tv series","stranger things"],"title":"You’re pretty cute, you know that?"},"timeToRead":2,"excerpt":"You’re pretty cute, you know that? Why’s he gotta kick the door? Why’s he gotta kick the door? Don’t take it so personally, okay? I don’t…"}]}},"pageContext":{"tag":"tv series"}},
-    "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
