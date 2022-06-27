@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[enter-the-code Blog]]></title><description><![CDATA[Welcome to my Blog!]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Jun 2022 05:13:24 GMT</lastBuildDate><item><title><![CDATA[Gatsby Starter Glass]]></title><description><![CDATA[welcome to my Blog! welcome to my history blog!]]></description><link>https://gatsbyglass.netlify.app/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/</guid><content:encoded>&lt;h1&gt;welcome to my Blog!&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[enter-the-code Blog]]></title><description><![CDATA[Welcome to my Blog!]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Jun 2022 05:48:24 GMT</lastBuildDate><item><title><![CDATA[Gatsby Starter Glass]]></title><description><![CDATA[welcome to my Blog! welcome to my history blog!]]></description><link>https://gatsbyglass.netlify.app/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/</guid><content:encoded>&lt;h1&gt;welcome to my Blog!&lt;/h1&gt;
 &lt;p&gt;welcome to my history blog!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.]]></description><link>https://gatsbyglass.netlify.app/contact/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
 &lt;p&gt;If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About Me]]></title><description><![CDATA[안녕하세요! 프론트 개발자 지망생 송기영 입니다! 학력: 경북대학교 재학중  학년: 3학년 1학기 재학중  경력: 경북대학교 이성기 교수 연구실 학부연구생으로 2년 활동  주 스택: javascript, java , c++  BOJ Profile…]]></description><link>https://gatsbyglass.netlify.app/about/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/about/</guid><content:encoded>&lt;h1&gt;안녕하세요! 프론트 개발자 지망생 송기영 입니다!&lt;/h1&gt;
 &lt;ul&gt;
@@ -15,7 +15,16 @@
 프로필&quot;&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;GitHub Stats  &lt;a href=&quot;https://hits.seeyoufarm.com&quot;&gt;&lt;img src=&quot;https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FF-hiller&amp;#x26;count_bg=%2379C83D&amp;#x26;title_bg=%23555555&amp;#x26;icon=&amp;#x26;icon_color=%23E7E7E7&amp;#x26;title=hits&amp;#x26;edge_flat=false&quot; alt=&quot;Hits&quot;&gt;&lt;/a&gt;&lt;br&gt;
 &lt;a href=&quot;https://github.com/anuraghazra/github-readme-stats&quot;&gt;&lt;img src=&quot;https://github-readme-stats.vercel.app/api?username=enter-the-code&quot; alt=&quot;Anurag&amp;#x27;s github stats&quot;&gt;&lt;/a&gt;**&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[네트워크프로그래밍 실습 코드 1]]></title><description><![CDATA[Client.c 아래는 클라이언트에 관한한 코드이며 처음 소캣으로 서버와 에코 통신을 해보는 코드이다.
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[자바스크립트 컴파일 하기]]></title><description><![CDATA[바벨 사이트. 하고자 하면 긴데]]></description><link>https://gatsbyglass.netlify.app/blog/react_2/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/react_2/</guid><pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;/br&gt;
+자바스크립트의 새 기능이 나오고 좋으면 쓰고 싶은것이 당연하다 새로운 기능이 잘작동하게 하는 유일한 방법은
+더 호환성이 높은 코드로 변환하는것인데 이런것을 보고 컴파일링이라고 한다.
+가장 유명한 도구는 바벨 이라는 것이다
+&lt;p&gt;&lt;a href=&quot;http://babeljs.io/&quot;&gt;바벨 사이트&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;하고자 하면 긴데&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//맨 윗단&lt;/span&gt;
+ &lt;span class=&quot;token string&quot;&gt;&quot;use strict&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/br&gt;
+이런식으로 맨위세 저걸 선언해서 엄격한 모드에서 실행되도록 만든다</content:encoded></item><item><title><![CDATA[네트워크프로그래밍 실습 코드 1]]></title><description><![CDATA[Client.c 아래는 클라이언트에 관한한 코드이며 처음 소캣으로 서버와 에코 통신을 해보는 코드이다.
  통신의 순서는 아래와 같다  Server.c 아래는 서버 코드이다.]]></description><link>https://gatsbyglass.netlify.app/blog/네프첫수업/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/네프첫수업/</guid><pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Client.c&lt;/h1&gt;
 &lt;p&gt;아래는 클라이언트에 관한한 코드이며 처음 소캣으로 서버와 에코 통신을 해보는 코드이다.
 &lt;/br&gt;&lt;/p&gt;
@@ -707,7 +716,7 @@ int main() {
 왜 사용하냐? 변경해서는 안되는 변수를 변경하는것을 방지하기 위해서이다.
 
 따라서 값은 변경할수 없고 만약 시도를 한다면 오류가 뜨게 된다.
- let…]]></description><link>https://gatsbyglass.netlify.app/blog/react_2/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/react_2/</guid><pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;const 변수&lt;/h1&gt;
+ let…]]></description><link>https://gatsbyglass.netlify.app/blog/react_3/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/react_3/</guid><pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;const 변수&lt;/h1&gt;
 &lt;p&gt;const는 값을 수정할수 없는 변수이다. 선언하고 나서는 바꿀수 없다는 것이다
 &lt;/br&gt;
 왜 사용하냐? 변경해서는 안되는 변수를 변경하는것을 방지하기 위해서이다.
@@ -758,4 +767,44 @@ let변수를 사용한다면 글로벌 변수를 방어하고 블록 안의 지�
 아래가 예시이다
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;something&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token parameter&quot;&gt;example&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;yeah ${example}&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;위와같이 사용하는것이 화살표 함수이다
-죄다 생략한것 봐라 날먹처럼보이나 괄호같은경우는 길면 둘러싸주게 되어 있다&lt;/p&gt;</content:encoded></item></channel></rss>
+죄다 생략한것 봐라 날먹처럼보이나 괄호같은경우는 길면 둘러싸주게 되어 있다&lt;/p&gt;
+&lt;/br&gt;
+ 
+ # 객체 반환하기
+&lt;/br&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;person&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;firstname&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;secondname&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    first&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;firstname&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    second&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;secondname&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;그냥 ()거 없이 {} 이것만 쓴다면 syntax에러 가뜬다 그러니까 해결하기 위해서는 소괄호를 써야한다&lt;/p&gt;
+&lt;h1&gt;화살표 함수와 영역&lt;/h1&gt;
+&lt;/br&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; gangwon&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;resorts
+    &lt;span class=&quot;token string&quot;&gt;&quot;배열&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token literal-property property&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;함수식{또 다른 함수식}&quot;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/br&gt;
+이런식일때 print함수 안에서 this.&quot;배열&quot;.join를 쓰면 오류가 터지는데 this가 window 객체이기 때문이다.
+이걸 해결하려면 저기 프린트 객체에서 함수식 안에 함수식에다가 화살표함수를 사용하면 된다
+&lt;h1&gt;객체와 배열&lt;/h1&gt;
+&lt;p&gt;구조 분해를 사용한 대입이 있다&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token string&quot;&gt;&quot;person 객체&quot;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;man&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;women&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;person&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/br&gt;
+이런식으로 안의 객체의 프로퍼티를 조각내서 대입해서 사용할수있다.
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token string&quot;&gt;&quot;person 객체&quot;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;women&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;n&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;m&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;h&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/br&gt;
+배열도 된다 구조를 묶는 과정도있는데
+그냥 변수에 {a,b}이걸 사용해서 묶으면 끝이다.
+&lt;h1&gt;스프레드 연산자&lt;/h1&gt;
+&lt;/br&gt;
+&lt;p&gt;이거 나중에 인터넷에 아무 로긴페이지 코드 예시를 쳐서보면 진짜 자주볼수있는 연산자이다&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token string&quot;&gt;&quot;...&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/br&gt;
+위처럼 ... 이라는 연산자인데
+&lt;p&gt;하는 역할은 배열을 합칠때 쓴다던가 혹은 reverse같은 함수를 사용하면 리턴하는 변수에도 reverse 가 적용되고 리턴을 받는 놈도 reverse가 적용된다 그때 받는 변수만 reverse받으려면 그때 스프레드 연산자를 사용한다&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;peaks&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;어떤 배열&quot;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;last&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;peaks&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;reverse&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/br&gt;
+아래처럼 하면 원래 핔스배열연 리버스 되지 않는다</content:encoded></item></channel></rss>
