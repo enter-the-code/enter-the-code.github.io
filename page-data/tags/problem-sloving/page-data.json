@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-template-js",
     "path": "/tags/problem-sloving/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/2513-통학버스/"},"frontmatter":{"date":"June 24, 2022","description":"소스코드와 해설입니다.","tags":["Problem sloving"],"title":"2513번 통학버스 문제"},"timeToRead":2,"excerpt":"…"}]}},"pageContext":{"tag":"Problem sloving"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"nodes":[{"fields":{"slug":"/blog/2638-치~~즈/"},"frontmatter":{"date":"June 27, 2022","description":"소스코드와 해설입니다.","tags":["Problem sloving"],"title":"2638번 치즈 문제"},"timeToRead":2,"excerpt":"문제 \n  이문제는 너비우선탐색만 몇번 시원하게 조져주면 되는데\n먼저 어려운게있는데 이게 태두리만 공기중에 닿았을때만 공기중에 닿는거라 생각하고 산화하는데\n이말이 뭐냐면 치즈안쪽에 공간이 있으면 그건 산화하지 않는다는 뜻이다.\n이걸 구분하려면 bfs…"},{"fields":{"slug":"/blog/2513-통학버스/"},"frontmatter":{"date":"June 24, 2022","description":"소스코드와 해설입니다.","tags":["Problem sloving"],"title":"2513번 통학버스 문제"},"timeToRead":2,"excerpt":"…"}]}},"pageContext":{"tag":"Problem sloving"}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
