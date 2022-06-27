@@ -1,5 +1,5 @@
 ---
-title: About Mee
+title: About Me
 template: about-template
 profile_image: /media/pngwing.com-removebg-preview.png
 ---
@@ -12,7 +12,7 @@ profile_image: /media/pngwing.com-removebg-preview.png
 * 학년: 3학년 1학기 재학중  
 </br>
 
-* 경력: 이성기 연구실 학부연구생으로 2년 활동  
+* 경력: 경북대학교 이성기 교수 연구실 학부연구생으로 2년 활동  
 </br>
 
 * 주 스택: javascript, java , c++  

@@ -26,15 +26,15 @@ const Header = () => {
 
         <HeaderNavList>
           <HeaderNavListItem>
-            <Link to="/blog">Blog</Link>
+            <Link to="/blog">게시물</Link>
           </HeaderNavListItem>
 
           <HeaderNavListItem>
-            <Link to="/about">About</Link>
+            <Link to="/about">소개</Link>
           </HeaderNavListItem>
 
           <HeaderNavListItem>
-            <Link to="/contact">Contact</Link>
+            <Link to="/contact">미정</Link>
           </HeaderNavListItem>
         </HeaderNavList>
       </HeaderWrapper>
