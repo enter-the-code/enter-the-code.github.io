@@ -84,7 +84,7 @@ const something = example => "yeah ${example}";
 
  # 객체 반환하기
 
- 
+
 </br>
 
 ```javascript
@@ -150,3 +150,6 @@ const [last]=[...peaks].reverse();
 ```
 </br>
 아래처럼 하면 원래 핔스배열연 리버스 되지 않는다
+
+
+
