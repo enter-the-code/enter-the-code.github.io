@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[enter-the-code Blog]]></title><description><![CDATA[Welcome to my Blog!]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 Jul 2022 16:25:00 GMT</lastBuildDate><item><title><![CDATA[Gatsby Starter Glass]]></title><description><![CDATA[welcome to my Blog! welcome to my history blog!]]></description><link>https://gatsbyglass.netlify.app/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/</guid><content:encoded>&lt;h1&gt;welcome to my Blog!&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[enter-the-code Blog]]></title><description><![CDATA[Welcome to my Blog!]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 04 Jul 2022 16:31:07 GMT</lastBuildDate><item><title><![CDATA[Gatsby Starter Glass]]></title><description><![CDATA[welcome to my Blog! welcome to my history blog!]]></description><link>https://gatsbyglass.netlify.app/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/</guid><content:encoded>&lt;h1&gt;welcome to my Blog!&lt;/h1&gt;
 &lt;p&gt;welcome to my history blog!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Contact Me]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.]]></description><link>https://gatsbyglass.netlify.app/contact/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
 &lt;p&gt;If you’ve got an inquiry for a job or project,drop me a line at hello@hello.com or fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About Me]]></title><description><![CDATA[안녕하세요! 프론트 개발자 지망생 송기영 입니다! 학력: 경북대학교 재학중  학년: 3학년 1학기 재학중  경력: 경북대학교 이성기 교수 연구실 학부연구생으로 2년 활동  주 스택: javascript, java , c++  BOJ Profile…]]></description><link>https://gatsbyglass.netlify.app/about/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/about/</guid><content:encoded>&lt;h1&gt;안녕하세요! 프론트 개발자 지망생 송기영 입니다!&lt;/h1&gt;
 &lt;ul&gt;
@@ -151,7 +151,7 @@
 하지만 JSX에서는 직접 컴포넌트를 정의해서 태그 형식으로 쓸수 있도록 만들어준다&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;example&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;이런식으로 사용이 가능해진다 앞서 봤던 element를 만드는 지져분한 코드를 사용하지않고 정의하고
-태그형식으로 편하게 사용할수 있도록 만들어 준다.
+우리에게 익숙한 html 태그형식으로 편하게 사용할수 있도록 만들어 준다.
 &lt;/br&gt;
 그리고 jsx에서 컴포넌트에게 프로퍼티 값을로(편하게 매개변수) 자바스크립트 값을 넘기려면 자바스크립트 식(’{}‘)을 꼭 사용해야 한다.
 중괄호를 꼭 감싸 줘야 한다는 것이다.&lt;/p&gt;
@@ -166,12 +166,18 @@
     &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;li&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/br&gt;
-아래와 같은 예시를 사용할수 있다는 것이다.
+위와 같은 예시를 사용할수 있다는 것이다. 위처럼 프로퍼티를 넘겨주거나 사용해야만 오류가 나지않고 사용할수 있다.
 &lt;/br&gt;
 그리고 jsx는 브라우저가 해석하지 못한다는 점이 단점이라 순수 리엑트로 바꾸어 줘야한다.
 더이상의 특징이 없을 정도로 잘게 쪼개주는것도 해야한다.
 &lt;/br&gt;
-예시같은경우 모든 코드를 적지않고 아래처럼 컴포넌트를 나누어서 의존적으로 서로를 부르고 사용하는 간단한 예시를 아래에 적겠다.
+&lt;h1&gt;순수 리엑트&lt;/h1&gt;
+&lt;p&gt;함수 내부에서 사용되는 값들이 외부의 영향을 주지 않고 어떠한 입력을 전달해도 글로벌 변수를 건드리지 않고 output을 반환해주는 기능을 하는 함수를 순수 함수라고 한다.&lt;/p&gt;
+&lt;p&gt;순수 함수는
+동일한 Parameter을 받으면 항상 똑같은 값을 Output 한다.
+return 값으로만 다른 외부 코드와 소통한다.
+함수 외부에 영향을 끼치면 안된다.&lt;/p&gt;
+&lt;/br&gt;
 &lt;p&gt;그리고 하나가 무수히 많은 일을 하는 바람에 코드가 기하급수적으로 길어지는것은 좋은 현상이 아니기에 컴포넌트를 더 잘게 더이상
 쪼개지지 못하도록 나누어 주는것이 좋다. 그것을 리엑트 프래그먼트 라고 한다.&lt;/p&gt;
 &lt;h1&gt;리엑트 프래그먼트(fragment)&lt;/h1&gt;
