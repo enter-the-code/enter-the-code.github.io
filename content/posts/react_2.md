@@ -2,6 +2,7 @@
 title: 자바스크립트 컴파일 하기
 date: 2022-06-28
 tags: [react]
+description: 책 요약 정리
 ---
 
 </br>

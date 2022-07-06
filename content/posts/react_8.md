@@ -2,6 +2,7 @@
 title: 상태 관리
 date: 2022-07-05
 tags: [react]
+description: 책 요약 정리
 ---
 
 데이터는 리엑트 컴포넌트가 존재하게하는 라이프베슬과 같다. 일단 컴포넌트들이 행동을 하거나
@@ -28,7 +29,7 @@ tags: [react]
 
 </br>
 
-# useState 를 이용한 별점
+## useState 를 이용한 별점
 
 </br>
 일단 우리가 흔히 별점매길때 별 5개에 클릭해서 몇개채워서 별점주는 그 일반적인 그것이
@@ -63,7 +64,7 @@ export default function StarRating(){
 이용하면 별써부터 어지러워서 접고싶어 진다.
 그러니까 이때 사용하는것이 useState 훅이다.
 
-# useState 훅
+## useState 훅
 
 </br>
 

@@ -2,6 +2,7 @@
 title: node 설치해보기
 date: 2022-06-06
 tags: [react]
+description: 책 요약 정리
 ---
 
 node.js를 설치하기전 혹시 모르잖아 설치되어 있을지? 그러니까 한번 확인해 봅시다.
