@@ -109,16 +109,30 @@ data-styled.g43[id="post-template__PostPagination-sc-afk1br-4"]{content:"icqoJD,
 body 내가원하는 언어를 쳐서 넣는다.</p>
 <h2>HTML 요쇼</h2>
 </br>
-<ol>
-<li>빈요소 (empty element)</li>
-</ol>
-<p>그냥 단지 기능만하는 태그</p>
-<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text"> &lt;br>, &lt;hr></code></pre></div>
-<ol start="2">
-<li>블록 요소 (block element)</li>
-<li>인라인 요소 (inline element)</li>
-</ol>
-<h2>HTML 속성</h2>
+<h3>1) 빈요소 (empty element)</h3>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">내용 없이 그냥 단지 기능만하는 태그</code></pre></div>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html"> ex)  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>br</span><span class="token punctuation">></span></span>, <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>hr</span><span class="token punctuation">></span></span></code></pre></div>
+</br>
+<h3>2) 블록 요소 (block element)</h3>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">모든 인라인 요소를 포함하거나 다른 블록 요소</code></pre></div>
+</br>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html">(ex)  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>h1</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>h1</span><span class="token punctuation">></span></span>,<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">></span></span>,<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>p</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>p</span><span class="token punctuation">></span></span></code></pre></div>
+</br>
+<h3>3) 인라인 요소 (inline element)</h3>
+<div class="gatsby-highlight" data-language="text"><pre class="language-text"><code class="language-text">블록 요소 안에 포함되어 있는 것으로, 인라인 요소만을 가질수 있다. 즉 인라인 요소안에는 위의 요소들을 
+집어넣을수 없다는 것이다</code></pre></div>
+</br>
+<div class="gatsby-highlight" data-language="html"><pre class="language-html"><code class="language-html">ex) <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>a</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>a</span><span class="token punctuation">></span></span>,<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>span</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>span</span><span class="token punctuation">></span></span>,<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>strong</span><span class="token punctuation">></span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>strong</span><span class="token punctuation">></span></span></code></pre></div>
+</br>
+<h2>HTML 속성(attribute)</h2>
+<p>태그를 보조하는 명령어로 태그 안쪽에서 작동</p>
+<h4>ex) id,class(react 에서는 className),style,width,height …</h4>
+</br>
+<p>예시</p>
+<div class="gatsby-highlight" data-language="javascript"><pre class="language-javascript"><code class="language-javascript"><span class="token operator">&lt;</span>h1 style<span class="token operator">=</span><span class="token string">"text-align: center;color: green;"</span><span class="token operator">></span> <span class="token number">2019</span>년 <span class="token number">6</span>월<span class="token operator">&lt;</span><span class="token operator">/</span>h1<span class="token operator">></span></code></pre></div>
+</br>
+<p>나머지 여러 태그들이 있고 태그들은 정말 많다. 하지만 그모든걸 여기에 적을수 없으므로 필요한 테그나 기능은 구글에 검색하여
+찾는것이 가장 빠르다</p>
 <h2>실습</h2>
 <h3>실습코드 1</h3>
 </br>

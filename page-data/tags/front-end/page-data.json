@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-template-js",
     "path": "/tags/front-end/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/HTML/"},"frontmatter":{"date":"July 26, 2022","description":"부캠정리","tags":["front_end"],"title":"HTML"},"timeToRead":3,"excerpt":"HTML 이란? 하이퍼 텍스트 마크업 언어이다. 따라서 이 html이라는 언어는 java 나 파이썬 같이 빌드하는 언어가 아닌\n무엇이 뭔지 명시하고 그위치를 정하는 텍스트 언어일 뿐이다. HTML 구조 위와 같은 구조를 지니는데 이구조에서 html…"}]}},"pageContext":{"tag":"front_end"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"nodes":[{"fields":{"slug":"/blog/HTML/"},"frontmatter":{"date":"July 26, 2022","description":"부캠정리","tags":["front_end"],"title":"HTML"},"timeToRead":4,"excerpt":"HTML 이란? 하이퍼 텍스트 마크업 언어이다. 따라서 이 html이라는 언어는 java 나 파이썬 같이 빌드하는 언어가 아닌\n무엇이 뭔지 명시하고 그위치를 정하는 텍스트 언어일 뿐이다. HTML 구조 위와 같은 구조를 지니는데 이구조에서 html…"}]}},"pageContext":{"tag":"front_end"}},
     "staticQueryHashes": ["2555585279","2714594843","3159585216"]}
