@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[enter-the-code Blog]]></title><description><![CDATA[Welcome to my Blog!]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 29 Jul 2022 07:31:45 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[안녕하세요! 프론트 개발자 지망생 송기영 입니다! 학력: 경북대학교 재학중  학년: 3학년 1학기 재학중  경력: 경북대학교 이성기 교수 연구실 학부연구생으로 2년 활동  주 스택: javascript, java , c++  BOJ Profile…]]></description><link>https://gatsbyglass.netlify.app/about/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/about/</guid><content:encoded>&lt;h1&gt;안녕하세요! 프론트 개발자 지망생 송기영 입니다!&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[enter-the-code Blog]]></title><description><![CDATA[Welcome to my Blog!]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 01 Aug 2022 04:08:43 GMT</lastBuildDate><item><title><![CDATA[About Me]]></title><description><![CDATA[안녕하세요! 프론트 개발자 지망생 송기영 입니다! 학력: 경북대학교 재학중  학년: 3학년 1학기 재학중  경력: 경북대학교 이성기 교수 연구실 학부연구생으로 2년 활동  주 스택: javascript, java , c++  BOJ Profile…]]></description><link>https://gatsbyglass.netlify.app/about/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/about/</guid><content:encoded>&lt;h1&gt;안녕하세요! 프론트 개발자 지망생 송기영 입니다!&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;학력: 경북대학교 재학중&lt;br&gt;
 &lt;/br&gt;&lt;/li&gt;
@@ -384,7 +384,18 @@ left:왼쪽으로 부터 떨어짐
 &lt;/br&gt;
 애니메이션 속성 굉장히 중요하다. 브라우저에 렌더링되는 페이지에 생동력을 불어 넣을수 있기 때문이다.
 &lt;/br&gt;
-여기에 관한한 여러 태그들을 소개 하겠다</content:encoded></item><item><title><![CDATA[HTML]]></title><description><![CDATA[HTML 이란? 하이퍼 텍스트 마크업 언어이다. 따라서 이 html이라는 언어는 java 나 파이썬 같이 빌드하는 언어가 아닌
+여기에 관한한 여러 태그들을 소개 하겠다
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;•Animation-name
+
+•Animation-duration
+
+•Animation-delay
+
+•Animation-iteration-count
+
+•Animation-timing-function&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/br&gt;
+&lt;p&gt;안타깝지만 직접 해보는게 답이다. 이건 눈으로 보면서 해야한다!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[HTML]]></title><description><![CDATA[HTML 이란? 하이퍼 텍스트 마크업 언어이다. 따라서 이 html이라는 언어는 java 나 파이썬 같이 빌드하는 언어가 아닌
 무엇이 뭔지 명시하고 그위치를 정하는 텍스트 언어일 뿐이다. HTML 구조 위와 같은 구조를 지니는데 이구조에서 html…]]></description><link>https://gatsbyglass.netlify.app/blog/HTML/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/HTML/</guid><pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;HTML 이란?&lt;/h2&gt;
 &lt;/br&gt;
 &lt;p&gt;하이퍼 텍스트 마크업 언어이다. 따라서 이 html이라는 언어는 java 나 파이썬 같이 빌드하는 언어가 아닌
